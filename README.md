@@ -5,4 +5,5 @@ proporcionando mais interatividade entre os estudantes de diferentes cursos e in
  IFSocial contara com uma gama de atividades relacionada aos cursos que o IFAL proporciona.
  
 Contribuidores: 
-* Maria Eduarda 
+* Maria Eduarda
+* Donizete
