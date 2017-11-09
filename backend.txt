@@ -1,0 +1,11 @@
+Documento para desenvolvimento Back End
+
+Tecnologias:
+
+Framework
+
+Usaremos o Django, um framework de desenvolvimento rápido, pois estamos usando este nas aulas de programação web.
+
+Banco de dados:
+
+Para prover o banco de dados, usaremos o MySQL, que foi visto nas aulas de banco de dados.
