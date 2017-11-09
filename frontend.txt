@@ -1,0 +1,17 @@
+Documento para desenvolvimento Front End
+
+Tecnologias:
+
+Javascript
+
+Javascript é uma linguagem de programação utilizada para que as respostas aos comandos do usuário possam ser processadas com mais velocidade. Além disso,  tivemos uma boa introduçao ao javascript no segundo módulo do curso.
+
+HTML/CSS
+
+Para a parte de conteúdo visual das páginas, usaremos HTML como linguagem de marcação e o CSS para a parte de estilos, pois tivemos várias aulas de como construir páginas usando essas tecnologias.
+
+Identidade visual
+
+Cores: Verde, Vermelho e branco como plano de fundo.
+
+Logomarca e Telas: ainda a construir.
