@@ -8,8 +8,8 @@ Contribuidores:
 * Maria Eduarda
 * Donizete
 * Gilberto Cícero
-* Roberta Viergílio
+* Roberta Virgílio
 * Michelline Ponciano
 * Manoela Lessa
 * Denilson Malfacine
-
+* Joyce Vieira
